@@ -45,7 +45,7 @@
 > ⚠️ Ensure the dataset files are correctly placed in the **Data** folder before executing the script.
 
 ---
-<h2>▶️ Running the Code</h2>
+<h2>▶️ Run the Code</h2>
 
 Instructions for training, evaluation, and inference will be added here.
 <h3>Train the Model</h3>
