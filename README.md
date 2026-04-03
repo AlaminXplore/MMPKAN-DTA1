@@ -16,7 +16,7 @@
   <li><strong>💻 Code</strong>– Source code and scripts for the MMPKAN-DTA framework. </li>
 </ul> 
 ---
-<h2>🔀 Warm-start and Cold-start Dataset Splits</h2>
+<h2>🔀 Split Dataset for Both Warm- and Cold-start Scenarios</h2>
 <pre><code>python code/cold_split.py</code></pre>
 
 **Instructions:**  
