@@ -13,7 +13,6 @@
   <li><strong>📊 Data</strong>– Training dataset files. </li>
   <li><strong>💻 Code</strong>– Source code and scripts for the MMPKAN-DTA framework. </li>
 </ul> 
----
 <h2>🔀 Split Dataset for Both Warm- and Cold-start Scenarios</h2>
 <pre><code>python code/cold_split.py</code></pre>
 
